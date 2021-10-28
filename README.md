@@ -1,4 +1,5 @@
 ### Hi there I'm Vineet 👋 ![Alt Text](https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif)
+<img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="40" height="40" />
 
 🔭 I’m currently working at Bizmetric as a Full Stack Developer. <br/> 
 🌱 I’m currently learning about JavaScript, React, Node.js, RestAPI, GraphQL.<br/>
