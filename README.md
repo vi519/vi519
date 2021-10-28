@@ -1,4 +1,5 @@
-### Hi there I'm Vineet 👋 
+### Hi there I'm Vineet 👋 ![image](https://user-images.githubusercontent.com/68097369/139235900-3ab9cb01-6ae7-455a-9db9-57f03e9f8c12.png)
+
 🔭 I’m currently working at Bizmetric as a Full Stack Developer. <br/> 
 🌱 I’m currently learning about JavaScript, React, Node.js, RestAPI, GraphQL.<br/>
 📫 How to reach me: Drop me a message here or at my [website](https://vi519.github.io/vineet_mishra_web_app/).<br/>
