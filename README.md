@@ -1,4 +1,4 @@
-### Hi there I'm Vineet 👋 https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif
+### Hi there I'm Vineet 👋 ![image](https://user-images.githubusercontent.com/68097369/139236861-e33561eb-8d21-4387-af26-5943569bf548.png| width=50)
 
 🔭 I’m currently working at Bizmetric as a Full Stack Developer. <br/> 
 🌱 I’m currently learning about JavaScript, React, Node.js, RestAPI, GraphQL.<br/>
