@@ -5,3 +5,4 @@
 😄 Pronouns: He/Him/His/Himself .<br/>
 📷You can find me on Instagram as @vineet_m17.<br/>
 ⚡ Fun fact: I geek out on Marvel movies and Online gaming.<br/>
+![Vineet Mishra GitHub Stats](https://github-readme-stats.vercel.app/api?username=vi519&show_icons=true)
