@@ -45,6 +45,7 @@ Skills
 <code><img height="50" src="https://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/07/express-logo-528x240.png"></code>
 <code><img height="50" src="https://miro.medium.com/max/1400/1*b0TtGI6gWFLltL1QkRxVdg.png"></code>
 <code><img height="50" src="https://www.pragimtech.com/wp-content/uploads/2019/04/bootstrap.jpg"></code>
-
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/330px-Postgresql_elephant.svg.png"></code>
+<code><img height="50" src="https://thejournalofmhealth.com/wp-content/uploads/2019/07/HL7-FHIR-Integration-Components-Made-Free-for-NHS-Customers.png"></code>
 
 
