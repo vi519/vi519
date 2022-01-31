@@ -11,6 +11,10 @@
 ![](https://raw.githubusercontent.com/Abhijay007/Abhijay007/main/coder1.gif)
 
 
+---
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="vineet-mishra-8850981a6" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/vineet-mishra-8850981a6?trk=profile-badge">Vineet Mishra</a></div>
+              
 
 ---
 ![Vineet Mishra GitHub Stats](https://github-readme-stats.vercel.app/api?username=vi519&show_icons=true&theme=tokyonight) 
