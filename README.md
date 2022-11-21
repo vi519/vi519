@@ -14,6 +14,7 @@
 ---
 <p align="center">
   <a href="https://vi519.github.io/vineet_mishra_web_app/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://www.npmjs.com/package/epic-on-fhir-login"><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"></a>  
   <a href="https://vineetmishrahbk.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a> 
 <a href="https://in.linkedin.com/in/vineet-mishra-8850981a6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>         </p>        
 
