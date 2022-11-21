@@ -13,7 +13,7 @@
 
 ---
 
-<a href="https://in.linkedin.com/in/vineet-mishra-8850981a6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>           
+<a href="https://in.linkedin.com/in/vineet-mishra-8850981a6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   <a href="https://vineetmishrahbk.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>          
               
 
 ---
