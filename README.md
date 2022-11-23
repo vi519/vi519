@@ -23,8 +23,11 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vi519&theme=blood-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 ---
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vi519&theme=github_dark)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vi519&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vi519&theme=github_dark)  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vi519&theme=github_dark)  
 ---
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vi519&theme=github_dark) 
+---
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vi519&theme=github_dark&utcOffset=8)   
    
 
 ---
