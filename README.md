@@ -1,4 +1,4 @@
-### Hi  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="30" height="30" />  <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30px" />, I'm Vineet 👋
+### Hi  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" width="30" height="30" />, I'm Vineet   <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30px" />👋
 
 🔭 I’m currently working at CCR Tech. as a Full Stack Developer.     <br/> 
 🌱 I’m currently learning about JavaScript, React, Node.js, RestAPI, GraphQL.<br/>
