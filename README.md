@@ -61,10 +61,5 @@ Skills
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/330px-Postgresql_elephant.svg.png"></code>
 <code><img height="50" src="https://thejournalofmhealth.com/wp-content/uploads/2019/07/HL7-FHIR-Integration-Components-Made-Free-for-NHS-Customers.png"></code>
 
-<iframe src="https://codesandbox.io/embed/simple-snake-game-with-javascript-css-and-html-1v7v7?fontsize=14&hidenavigation=1&module=%2Fsrc%2Fsnake.js&theme=dark"
-     style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
-     title="Simple Snake Game with JavaScript, CSS, and HTML"
-     allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
-     sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-></iframe>
+
 
