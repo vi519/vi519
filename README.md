@@ -20,7 +20,7 @@
 
 ---
 ## ✉️ Leetcode Profile:
-[![vineet's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=vineetmishrahbk)](https://github.com/KnlnKS/leetcode-stats)
+[![vineet's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=vineetmishrahbk&theme=Mist)](https://github.com/JeremyTsaii/leetcode-stats)
 
 ---
 ![Vineet Mishra GitHub Stats](https://github-readme-stats.vercel.app/api?username=vi519&show_icons=true&theme=tokyonight) 
