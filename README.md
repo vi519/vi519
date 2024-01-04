@@ -32,7 +32,8 @@
  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vi519&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vi519&theme=github_dark) 
 
 ---
-
+![Vineet's GitHub stats](https://github-readme-stats.vercel.app/api?username=vi519&theme=dark&show_icons=true)
+---
 ## ✉️ Find me on:
 
 
